@@ -19,9 +19,9 @@ global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = '083866276094' //ganti pakai nomor dana mu
+global.pulsa = '083819140194' //ganti pakai nomor pulsa mu
+global.gopay = '083819140194' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Hinata-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
